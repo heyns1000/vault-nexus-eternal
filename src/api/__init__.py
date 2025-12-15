@@ -7,6 +7,4 @@ OpenAPI Documentation
 
 __version__ = "1.0.0"
 
-from .api_server import create_app
-
-__all__ = ["create_app"]
+__all__ = []
