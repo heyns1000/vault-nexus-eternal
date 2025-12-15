@@ -7,6 +7,7 @@ env/
 .DS_Store
 .coverage
 .pytest_cache/
+htmlcov/
 *.log
 data/*.json
-*.sqlite
+config/local.yaml
