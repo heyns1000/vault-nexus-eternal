@@ -1,0 +1,27 @@
+ecosystem:
+  breath_cycle_seconds: 9
+  grain_count_target: 13713
+  care_mandate_percentage: 0.15
+  nvqlink_announcement: "2025-10-28"
+  current_phase: "Q2_Entanglement"
+
+hypercube:
+  dimensions: 40
+  free_capacity_percentage: 0.877
+  query_latency_max_seconds: 9
+
+elephant_memory:
+  pages: 46
+  strength_decay: 0.0
+  generational_wisdom: true
+
+compliance:
+  treaty: "OMNI-4321"
+  section: "9.4.17"
+  security_rating: "9atm"
+  great_wall: "永不崩塌"
+
+api:
+  host: "0.0.0.0"
+  port: 8000
+  cors_enabled: true
